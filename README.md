@@ -23,6 +23,10 @@ and predicts next month’s sales using Linear Regression.
 - Plotly : Visualization of data via interactable graphs [Matplotlib and seaborn were used in previous versions]
 - Sckit-Learn : Machine learning and data forecasting
 
+## Live Demo:
+
+https://retail-sales-analytics-dashboard-mhknl3fkaqunq6zqjca2ya.streamlit.app/
+
 ## Screenshots:
 
 ![Dashboard Screen](Screenshots/1.png)
