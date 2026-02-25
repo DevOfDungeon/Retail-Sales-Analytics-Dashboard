@@ -25,6 +25,12 @@ and predicts next month’s sales using Linear Regression.
 
 ## Screenshots:
 
+![Dashboard Screen](1.png)
+![Key Metrics](2.png)
+![Top 10 products by Sales](3.png)
+![Sales by category](4.png)
+![Forecasting](5.png)
+
 ## To be added soon:
 - YoY comparision
 - Confidence interval
